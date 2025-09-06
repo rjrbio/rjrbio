@@ -6,24 +6,7 @@
 - 🎓  Currently studying at web applications development at CPIFP Alan Turing. 
 - 💻 Most interesting in Full Stack development.
 
-🚀 Mi Proyecto de Desarrollo Web
-Este repositorio contiene un proyecto que estoy desarrollando mientras estudio Desarrollo Web.
-Aquí practico HTML, CSS y JavaScript, además de integrar conceptos de frameworks y herramientas modernas.
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-
-<details>
-  <summary><h4>📈 Click to expand Stats</h4></summary>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjrbio&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rjrbio&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
-  </p>
-</details>
-
+<!-- Languages & techs -->
 ## :bulb: Languages & Frameworks I code in
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
@@ -60,6 +43,20 @@ Aquí practico HTML, CSS y JavaScript, además de integrar conceptos de framewor
 ## 📫 How to Reach Me
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joseftf1991@gmail.com&su=Consulta&body=Hola, quisiera hacer una consulta sobre...">Send me here a email</a> or connect with me on [LinkedIn](https://www.linkedin.com/in/rjrbio/)
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
+<details>
+  <summary><h4>📈 Click to expand Stats</h4></summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjrbio&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rjrbio&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
+  </p>
+</details>
 
 <!-- Social Media Section -->
 ## 🌐 Connect with Me
