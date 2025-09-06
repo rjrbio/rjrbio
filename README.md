@@ -17,10 +17,10 @@ Aquí practico HTML, CSS y JavaScript, además de integrar conceptos de framewor
   <summary><h4>📈 Click to expand Stats</h4></summary>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acanojiDev&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjrbio&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=acanojiDev&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rjrbio&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
   </p>
 </details>
 
