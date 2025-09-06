@@ -54,7 +54,7 @@ Aquí practico HTML, CSS y JavaScript, además de integrar conceptos de framewor
 <!-- Learning Section -->
 ## 📚 Learning
 
-- First year learning all about developers' world, right now more interested in Python.
+- First year learning about all this developers' world, right now more interested in Python.
 
 <!-- How to Reach Me Section -->
 ## 📫 How to Reach Me
@@ -64,6 +64,6 @@ Aquí practico HTML, CSS y JavaScript, además de integrar conceptos de framewor
 <!-- Social Media Section -->
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/rjrbio/" target="_blank" ><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
 </div>
