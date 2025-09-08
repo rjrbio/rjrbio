@@ -32,7 +32,7 @@
 <!-- Current Project Section -->
 ## 💻 Current Project
 
-- 🔗 Check out my latest project [here](not-yet).
+- 🔗 Check out my latest project [here](https://github.com/rjrbio/Angular16-API).
 
 <!-- Learning Section -->
 ## 📚 Learning
