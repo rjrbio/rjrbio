@@ -3,8 +3,8 @@
 <!-- About Me Section -->
 💬 About Me 
 - 🌍 I´m from Málaga, Spain.
-- 🎓  Currently studying at web applications development at CPIFP Alan Turing. 
-- 💻 Most interesting in Full Stack development.
+- 🎓  Currently studying at web applications development at CPIFP Alan Turing and multi-platform applications development at IES Portada Alta. 
+- 💻 Most interested in Full Stack development.
 
 <!-- Languages & techs -->
 ## :bulb: Languages & Frameworks I code in
@@ -17,6 +17,7 @@
 <code><img title="SQL" alt="sql" width="50px" src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg" /></code>
 <code> <img title="BootStrap" alt="bootstrap" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" /></code>
+<code> <img title="PHP" alt="php" width="37px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /></code>
 </br></br>
 
 ## :hammer_and_wrench: Technologies I use
